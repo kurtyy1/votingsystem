@@ -1,6 +1,6 @@
 # votingsystem
 how to install this votingsystem?
-first download the zip and extract it
+first download the two zip (votingsystem and votingsystem2) and extract it both.
 copy the folder (votingsystem)
 find the xampp/htdocs in your file explorer
 then paste it inside of htdocs
